@@ -1,4 +1,5 @@
 x=10
-y=20
-z=x+y
+y=200
+p=90
+z=x+y+p
 print"the sum of two variable is " ,z
